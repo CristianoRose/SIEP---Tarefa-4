@@ -1,9 +1,5 @@
-pandas
 streamlit
-plotly
-scikit-learn0
-imblearn
+pandas
 numpy
-matplotlib
-seaborn
 joblib
+plotly
