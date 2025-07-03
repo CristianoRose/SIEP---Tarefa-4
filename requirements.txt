@@ -4,5 +4,5 @@ numpy
 joblib
 plotly
 seaborn
-scikit-learn
-imbalanced-learn
+scikit-learn==1.2.2
+imbalanced-learn==0.10.1
